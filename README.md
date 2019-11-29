@@ -1,0 +1,1 @@
+# fourier-sin-cos-serie-solver
